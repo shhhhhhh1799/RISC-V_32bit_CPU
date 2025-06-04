@@ -5,5 +5,5 @@
 sssssssh17@naver.com
 
 # <img src="https://github.com/user-attachments/assets/d15f7eca-747d-478b-b161-5d0152ea98e8" width="30"> Project
-ARM Architecture(2025.03.25 ~ 05.07)
+ARM Architecture(2025.03.25 ~ 05.07)\n
 시스템반도체 설계(2025.05.08 ~ 06.02) 
