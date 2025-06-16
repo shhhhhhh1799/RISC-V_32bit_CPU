@@ -7,4 +7,7 @@ sssssssh17@naver.com
 # <img src="https://github.com/user-attachments/assets/d15f7eca-747d-478b-b161-5d0152ea98e8" width="30"> Project
 ARM Architecture(2025.03.25 ~ 05.07)
 
-시스템반도체 설계(2025.05.08 ~ 06.02) 
+UART 통신으로 제어한 Watch_Stopwatch + 초음파 센서 + 온습도 센서
+
+프로젝트 기간 : 25.05.08 ~ 25.06.02
+프로젝트 참여 인원: 4명
