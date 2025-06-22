@@ -5,13 +5,25 @@
 sssssssh17@naver.com
 
 # <img src="https://github.com/user-attachments/assets/d15f7eca-747d-478b-b161-5d0152ea98e8" width="30"> Project
-ARM Architecture(2025.03.25 ~ 05.07)
+STm32 기반 2D 슈팅 게임
+
+프로젝트 기간 : 25.03.25 ~ 25.05.07
+
+프로젝트 참여 인원: 1명
+
+플랫폼: 
+
+[프로젝트 개요]
+
+
 
 UART 통신으로 제어한 Watch_Stopwatch + 초음파 센서 + 온습도 센서
 
 프로젝트 기간 : 25.05.08 ~ 25.06.02
 
 프로젝트 참여 인원: 4명
+
+플랫폼: Vivado 2020.2, VS code, Basys 3 board, SR04, DHT11
 
 [프로젝트 개요]
 
