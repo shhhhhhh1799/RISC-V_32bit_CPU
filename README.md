@@ -1,6 +1,6 @@
 # 🧑‍💻 박승헌
 
-반도체 설계 및 검증에 관심 있는 예비 엔지니어입니다.  
+반도체 설계와 검증 분야에 열정을 가진 예비 엔지니어입니다.
 - 경북대학교 신소재공학부 전자재료공학전공 (2019.03 ~ 2025.02)  
 - 대한상공회의소 서울기술교육센터 AI 시스템 반도체 설계 2기 수료 (2025.03 ~ 2025.10)
 
@@ -27,6 +27,6 @@
 
 ## 📫 Contact
 
-<img src="https://github.com/user-attachments/assets/c593d560-a5bd-4d4d-a42e-2673fa696a53" width="20"> ssssssh17@naver.com
+📧 **Email**: [ssssssh17@naver.com](mailto:ssssssh17@naver.com)
 
 ---
