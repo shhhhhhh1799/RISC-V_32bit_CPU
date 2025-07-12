@@ -7,7 +7,7 @@
 
 ## 🛠 Skills
 
-- Verilog, Python, C
+- C, Python, Verilog
 
 ---
 
