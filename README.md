@@ -13,7 +13,7 @@
 
 ## 🚀 Projects
 
-- [AI 수학 튜터 시스템](https://github.com/team6-mathtutor)  
+- [AI 수학 튜터 시스템](https://github.com/shhhhhhh1799/portfolio/tree/mathtutor)  
   이미지/음성 입력 → 수식 분석 → 자연어 풀이 → 음성 출력까지 수행하는 AI 수학 도우미
 
 - Verilog 기반 임베디드 시스템 통합 설계  
