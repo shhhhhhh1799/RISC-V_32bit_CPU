@@ -13,6 +13,9 @@
 
 ## 🚀 Projects
 
+- [STM32 드래곤 슈팅 게임]()  
+  자동 발사 / 점수 / 레벨 / 배경음악이 포함된 STM32 기반 드래곤플라이트 스타일 2D 게임
+
 - [Verilog 기반 임베디드 시스템 통합 설계](https://github.com/shhhhhhh1799/portfolio/tree/uart_sensor_watch)  
   Watch, Stopwatch, 거리측정, 온습도 표시 기능을 FPGA에서 통합 구현
 
