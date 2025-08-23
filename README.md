@@ -6,8 +6,8 @@
 ---
 
 ## 👨‍💻 About Me
-- Majored in **Electronic Engineering**  
-- Passionate about **Digital Circuit Design, Signal Processing, Embedded Systems, and AI Applications**
+- Majored in **Electronic Materials Science Engineering at Kyungpook National University**  
+- Passionate about **Circuit Design, Verification, Embedded Systems**
 
 ---
 
