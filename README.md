@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:89CFF0,100:E0FFFF&height=170&text=Hi%2C%20I'm%20SeungHeon%20Park&fontSize=42&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:89CFF0,100:E0FFFF&height=170&text=Welcome!%20Seungheon%20Portfolio&fontSize=42&animation=fadeIn" />
 </p>
 
 ---
