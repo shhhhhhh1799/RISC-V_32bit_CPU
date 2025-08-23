@@ -30,12 +30,6 @@
 | [FFT-architecture](https://github.com/shhhhhhh1799/portfolio/tree/fft-architecture) | Fixed-point 기반 512-point FFT 연산을 SystemVerilog로 설계 및 검증 프로젝트 |
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shhhhhhh1799&show_icons=true&theme=default&rank_icon=percentile" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhhhhhh1799&layout=compact" />
-</p>
-
 ---
 
 ## 📫 Contact
