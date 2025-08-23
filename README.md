@@ -8,6 +8,7 @@
 ## 👨‍💻 About Me
 - Majored in **Electronic Materials Science Engineering at Kyungpook National University**  
 - Passionate about **Circuit Design, Verification, Embedded Systems**
+- 대한상공회의소 서울기술교육센터 **시스템반도체 설계** 교육 수료
 
 ---
 
