@@ -122,7 +122,7 @@ Register File, ALU, Immediate Generator, Program Counter(PC), MUX 등이 서로 
 즉시값(imm) 연산이 정상적으로 수행되는지 확인할 수 있으며, Register File에 연산 결과가 반영됩니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/I-Type.png" alt="I-Type Verification" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/I-Type.png" alt="I-Type Verification" width="900"/>
 </p>
 
 ---
@@ -132,7 +132,7 @@ Register File, ALU, Immediate Generator, Program Counter(PC), MUX 등이 서로 
 메모리에 데이터가 올바르게 저장되는지 확인할 수 있으며, 파형에서 Write 동작이 정상적으로 수행됨을 보여줍니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/S-Type.png" alt="S-Type Verification" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/S-Type.png" alt="S-Type Verification" width="900"/>
 </p>
 
 ---
@@ -142,7 +142,7 @@ Register File, ALU, Immediate Generator, Program Counter(PC), MUX 등이 서로 
 모든 결과가 예상 값과 일치하며, Register File에 올바르게 반영됨을 확인했습니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/R-Type.png" alt="R-Type Verification" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/R-Type.png" alt="R-Type Verification 2" width="900"/>
 </p>
 
 ---
@@ -152,30 +152,35 @@ Register File, ALU, Immediate Generator, Program Counter(PC), MUX 등이 서로 
 분기 조건에 따라 Program Counter(PC)가 올바르게 갱신되는지 확인할 수 있으며, 파형에서 조건이 True/False로 판별되는 과정을 보여줍니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/B-Type.png" alt="B-Type Verification" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/B-Type.png" alt="B-Type Verification 2" width="900"/>
 </p>
 
 ---
 
 ### 🔹 U-Type 명령어 검증
-아래는 `U-Type` 명령어(`LUI`, `AUIPC`) 실행을 검증한 결과입니다.  
-즉시값(imm)이 상위 비트에 올바르게 확장되고, AUIPC의 경우 Program Counter(PC) 값과 더해져 저장되는 것을 확인할 수 있습니다.  
+아래는 `U-Type` 명령어(`LUI`, `AUIPC`) 실행을 검증한 결과입니다.
+
+- **LUI** : 즉시값(imm)을 상위 20비트로 확장하여 레지스터에 기록  
+- **AUIPC** : PC 값 + imm << 12 연산 결과를 저장  
+
+파형을 통해 imm 확장과 Program Counter 연산이 정상적으로 동작함을 확인할 수 있습니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/U-Type.png" alt="U-Type Verification" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/U-Type.png" alt="U-Type Verification" width="900"/>
 </p>
 
 ---
 
 ### 🔹 J-Type & JALR 명령어 검증
-아래는 `J-Type` (`JAL`) 및 `I-Type 변형` (`JALR`) 명령어 실행을 검증한 결과입니다.  
+아래는 `J-Type` (`JAL`) 및 `I-Type 변형` (`JALR`) 명령어 실행을 검증한 결과입니다. 
+
 - **JAL** : 현재 PC 값 + offset → rd에 저장, PC는 분기된 주소로 갱신  
 - **JALR** : rs1 + offset 값으로 PC를 갱신하고, 다음 명령어 주소를 rd에 저장  
 
 파형에서 분기 및 점프 주소 계산이 정상적으로 수행됨을 확인할 수 있습니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/J-Type.png" alt="J & JALR Type Verification" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/J-Type.png" alt="J & JALR Type Verification" width="900"/>
 </p>
 
 ---
