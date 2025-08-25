@@ -83,7 +83,7 @@ Register File, ALU, Immediate Generator, Program Counter(PC), MUX 등이 서로 
 - **WB (Writeback)** : 결과를 Register File에 저장  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/Multi-Cycle%20FSM.png" alt="Multi Cycle FSM" width="700"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/Multi-Cycle%20FSM.png" alt="Multi Cycle FSM" width="700"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ Register File, ALU, Immediate Generator, Program Counter(PC), MUX 등이 서로 
 이를 통해 Multi-Cycle 구조에서 명령어별로 수행 단계가 달라지는 것을 검증할 수 있습니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/FSM.png" alt="Multi-Cycle FSM Simulation" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/FSM.png" alt="Multi-Cycle FSM Simulation" width="900"/>
 </p>
 
 ---
@@ -112,7 +112,7 @@ Register File, ALU, Immediate Generator, Program Counter(PC), MUX 등이 서로 
 테스트 벡터에 따라 연산 결과가 올바르게 Register File에 기록되는 것을 확인할 수 있습니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/R-Type.png" alt="R-Type Verification" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/R-Type.png" alt="R-Type Verification" width="900"/>
 </p>
 
 ---
