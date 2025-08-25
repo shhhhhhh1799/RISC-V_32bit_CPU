@@ -38,9 +38,8 @@ Control Unit은 FSM 기반으로 상태를 전환하며 각 단계의 동작을 
 Instruction Memory(ROM), Data Memory(RAM), Control Unit, Datapath가 어떻게 연결되는지 한눈에 볼 수 있습니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/Block%20Diagram.png" alt="CPU Block Diagram" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/Block%20Diagram.png" alt="CPU Block Diagram" width="900"/>
 </p>
-
 ---
 
 ### 🧩 CPU Top Schematic
@@ -48,7 +47,7 @@ Instruction Memory(ROM), Data Memory(RAM), Control Unit, Datapath가 어떻게 �
 Instruction Memory, Register File, ALU, Data Memory, Control Unit 등이 연결된 전체 구조를 보여줍니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/CPU-Top.png" alt="CPU Top Schematic" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/CPU-Top.png" alt="CPU Block Diagram" width="900"/>
 </p>
 
 ---
@@ -58,7 +57,7 @@ Instruction Memory, Register File, ALU, Data Memory, Control Unit 등이 연결�
 Control Unit과 Datapath가 어떻게 상호 연결되어 제어 신호와 데이터 신호를 주고받는지 확인할 수 있습니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/CPU-RV32I.png" alt="CPU RV32I Internal Structure" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/CPU-RV32I.png" alt="CPU RV32I Internal Structure" width="900"/>
 </p>
 
 ---
@@ -68,7 +67,7 @@ Control Unit과 Datapath가 어떻게 상호 연결되어 제어 신호와 데�
 Register File, ALU, Immediate Generator, Program Counter(PC), MUX 등이 서로 연결되어 명령어 실행을 수행하는 과정을 표현합니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/portfolio/blob/shhhhhhh1799-image/CPU-DataPath.png" alt="CPU Datapath" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/CPU-DataPath.png" alt="CPU Datapath" width="900"/>
 </p>
 
 ---
