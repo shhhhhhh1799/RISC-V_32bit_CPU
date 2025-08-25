@@ -137,12 +137,12 @@ Register File, ALU, Immediate Generator, Program Counter(PC), MUX 등이 서로 
 
 ---
 
-### 🔹 R-Type 명령어 검증
-아래는 `R-Type` 명령어 실행 결과를 자세히 검증한 파형과 결과 테이블입니다.  
-모든 결과가 예상 값과 일치하며, Register File에 올바르게 반영됨을 확인했습니다.  
+### 🔹 L-Type 명령어 검증
+아래는 `L-Type` 명령어(`LW`, `LH`, `LB`) 실행을 검증한 결과입니다.  
+메모리에서 데이터를 올바르게 읽어오는지 확인할 수 있으며, 파형에서 Load 동작이 정상적으로 수행됨을 보여줍니다.  
 
 <p align="center">
-  <img src="https://github.com/shhhhhhh1799/Image/blob/main/R-Type.png" alt="R-Type Verification 2" width="900"/>
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/L-Type.png" alt="L-Type Verification" width="900"/>
 </p>
 
 ---
