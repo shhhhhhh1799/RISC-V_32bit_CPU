@@ -20,6 +20,17 @@ Control Unit은 FSM 기반으로 상태를 전환하며 각 단계의 동작을 
 
 ---
 
+## 📖 RV32I Base Instruction Set
+
+아래 그림은 **RV32I 명령어 집합(Base Instruction Set)** 입니다.  
+각 명령어의 형식, 비트 구조, 연산 방식과 예시를 한눈에 확인할 수 있습니다.  
+
+<p align="center">
+  <img src="https://github.com/shhhhhhh1799/Image/blob/main/RV32I%20Base%20Instruction%20Set.png" alt="RV32I Instruction Set" width="900"/>
+</p>
+
+---
+
 ## 📁 주요 모듈 설명
 
 | 모듈               | 설명                                                                 |
