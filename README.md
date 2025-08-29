@@ -66,7 +66,7 @@ Instruction Memory, Register File, ALU, Data Memory, Control Unit 등이 연결�
 
 ### 🧩 CPU RV32I 내부 구조
 아래 그림은 **CPU_RV32I 모듈 내부 구조**를 보여줍니다.  
-Control Unit과 Datapath가 어떻게 상호 연결되어 제어 신호와 데이터 신호를 주고받는지 확인할 수 있습니다.  
+ControlUnit과 DataPath가 어떻게 상호 연결되어 제어 신호와 데이터 신호를 주고받는지 확인할 수 있습니다.  
 
 <p align="center">
   <img src="https://github.com/shhhhhhh1799/Image/blob/main/CPU-RV32I.png" alt="CPU RV32I Internal Structure" width="900"/>
