@@ -51,6 +51,7 @@ Instruction Memory(ROM), Data Memory(RAM), Control Unit, Datapath가 어떻게 �
 <p align="center">
   <img src="https://github.com/shhhhhhh1799/Image/blob/main/Block%20Diagram.png" alt="CPU Block Diagram" width="900"/>
 </p>
+
 ---
 
 ### 🧩 CPU Top Schematic
